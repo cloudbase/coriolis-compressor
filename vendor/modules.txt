@@ -1,0 +1,10 @@
+# github.com/gorilla/handlers v1.4.0
+github.com/gorilla/handlers
+# github.com/gorilla/mux v1.7.3
+github.com/gorilla/mux
+# github.com/klauspost/compress v1.7.2
+github.com/klauspost/compress/flate
+# github.com/klauspost/cpuid v1.2.1
+github.com/klauspost/cpuid
+# github.com/klauspost/pgzip v1.2.1
+github.com/klauspost/pgzip
